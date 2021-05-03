@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/*I made a tracing image for you. When finished, remove the tracing image by deleting lines 3-7 in the CSS. Finish by adding appropriate bg color and or texture to a new body selector*/
+
+#wrapper {
+	/*make the background color white and choose your preferred opacity to work*/
+	background-color: rgba(255, 255, 255, 1.0); /*you set to 1.0 alpha at the end*/
+	box-sizing: border-box;
+	width: 755px;
+	height: 850px;
+	box-shadow: 25px 25px 10px rgba(5, 5, 20, .2);
+	border: thin solid #CCC;
+	margin-right:auto;
+	margin-left:auto;
+	padding-left:100px;
+}
+img {
+	width: 120px;
+	height:auto;
+	margin-top: 40px;
+	}
+.big {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 130px;
+	line-height: 90px;
+	font-weight:100;
+	vertical-align: top;
+}
+.medium {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 50px;
+	line-height: 45px;
+	font-weight:300;
+	vertical-align: top;
+}
+.small {
+	font-family:kranky;
+	font-size: 25px;
+	line-height: 25px;
+	font-weight:400;
+	vertical-align: top;
+		
+}
+#ne {
+	vertical-align: top;
+	display: inline-block;
+	margin-top: 55px;
+	margin-left:-2px;
+}
+#for-you{
+	margin-top: -28px;
+	margin-left: 105px;
+	letter-spacing: -2px;	
+}
+#one{
+	margin-top: -55px;
+	margin-left: 19px;
+	letter-spacing: 0px;
+}
+#two{
+	margin-top: 50px;
+	margin-left: 150px;
+	letter-spacing: -2px;
+}
+#fy2{
+	margin-top: -135px;
+	margin-left: 250px;
+	letter-spacing: -2.5px;
+}
+#ottfm{
+	margin-top: -55px;
+	margin-left: 174px;
+	letter-spacing: -.5px;
+}
+#fair{
+	font-size: 70px;
+	margin-top: 50px;
+	margin-left: 67px;
+	letter-spacing: -3.6px;
+}
+#how {
+	height: 38px;
+	overflow:hidden;
+	font-size: 55px;
+	line-height: 65px;
+	margin-top: -75px;
+	margin-left: 67px;
+	letter-spacing: -2.8px;
+}
+#oh {
+	margin-top: -52px;
+	margin-left: 405px;
+	letter-spacing: 1px;
+}
+#see {
+	font-size: 58px;
+	font-weight: 100;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin-top: -32px;
+	margin-left: 238px;
+	letter-spacing: 1.5px;
+}
+#these{
+	
+	font-weight:100;
+	margin-top: -48px;
+	margin-left: 145px;
+	letter-spacing: -4px;
+}
+#are {
+	font-weight:100;
+	font-size: 50px;
+	margin-top: -136px;
+	margin-left: 108px;
+	letter-spacing: -1px;
+}
+#those {
+	margin-top: -55px;
+	margin-left: 298px;
+	letter-spacing: -.2px;
+}
